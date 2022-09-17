@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial1</string>
+    <string name="roll_button_text">"Roll em!"</string>
+    <string name="roll_page_title">"Lets roll some dice"</string>
+</resources>
